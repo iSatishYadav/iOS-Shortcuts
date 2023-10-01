@@ -23,4 +23,5 @@ Combines 2 images Vertically/Horizontally/Grid.
 
 ## 5. Generate QR Code
 Generate QR Code from URL/Text etc. 
+
 [Download](Generate%20QR%20Code.shortcut)
