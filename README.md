@@ -20,3 +20,7 @@ Removes background from an Image and saves to Photos.
 Combines 2 images Vertically/Horizontally/Grid.
 
 [Download](Remove%20background.shortcut)
+
+## 5. Generate QR Code
+Generate QR Code from URL/Text etc. 
+[Download](Generate%20QR%20Code.shortcut)
